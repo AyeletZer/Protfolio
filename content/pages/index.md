@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Business Analyst
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I’m a data analyst with a passion for transforming complex data into
+      actionable insights. With expertise in Python, SQL, and machine learning,
+      I excel in delivering valuable analytics across marketing, sales, and data
+      analysis. Currently pursuing an MS in Business Analytics at Adelphi
+      University.
     actions:
       - label: Get started
         altText: ''
