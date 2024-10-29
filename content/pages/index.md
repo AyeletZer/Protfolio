@@ -132,15 +132,6 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: To Projects
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
       - type: Link
         altText: GitHub
         url: >-
