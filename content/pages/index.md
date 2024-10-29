@@ -111,7 +111,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Natural Language Processing for App Review Insights
         subtitle: ''
         text: ''
         image:
