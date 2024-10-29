@@ -91,10 +91,7 @@ sections:
               borderRadius: x-large
       - title: Grocery Store Sales Prediction and Inventory Management System
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/icon2.svg
           altText: Featured icon two
