@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Machine Learning for Client Acquisition and Revenue Forecasting
-        subtitle: Numbers Done
+        subtitle: ''
         text: ''
         actions: []
         elementId: null
