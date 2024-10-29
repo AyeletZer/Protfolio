@@ -67,7 +67,16 @@ sections:
         title: Machine Learning for Client Acquisition and Revenue Forecasting
         subtitle: ''
         text: ''
-        actions: []
+        actions:
+          - type: Link
+            altText: GitHub
+            url: >-
+              /https://github.com/AyeletZer/Amazon_App_Reviews_Text_Analytics_Project
+            showIcon: true
+            icon: github
+            iconPosition: left
+            style: secondary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
