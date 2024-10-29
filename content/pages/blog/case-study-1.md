@@ -70,6 +70,10 @@ bottomSections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
