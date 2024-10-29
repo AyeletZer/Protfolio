@@ -142,7 +142,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: ''
         altText: ''
         url: >-
           /https://colab.research.google.com/drive/11s2X15xzBdINg98CDrVfq8NN6qSO6Xo_?usp=sharing#scrollTo=0aIU47CvV8-q
