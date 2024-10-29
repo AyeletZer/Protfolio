@@ -74,6 +74,7 @@ bottomSections:
       type: TitleBlock
       text: This Is A Big Headline
       color: text-dark
+    subtitle: Top Projects
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
