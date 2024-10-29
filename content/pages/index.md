@@ -141,6 +141,15 @@ sections:
         style: primary
         elementId: ''
         type: Button
+      - type: Link
+        altText: GitHub
+        url: >-
+          /https://github.com/AyeletZer/Amazon_App_Reviews_Text_Analytics_Project
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
     badge:
       label: This is a badge
       color: text-primary
