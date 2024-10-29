@@ -90,7 +90,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Grocery Store Sales Prediction and Inventory Management System
-        subtitle: The Job Stuff
+        subtitle: ''
         text: ''
         image:
           url: /images/icon2.svg
