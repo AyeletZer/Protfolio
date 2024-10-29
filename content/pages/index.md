@@ -106,7 +106,17 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              /https://colab.research.google.com/drive/11s2X15xzBdINg98CDrVfq8NN6qSO6Xo_?usp=sharing#scrollTo=0aIU47CvV8-q
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
