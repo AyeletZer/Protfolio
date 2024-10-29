@@ -75,6 +75,17 @@ bottomSections:
       text: This Is A Big Headline
       color: text-dark
     subtitle: Top Projects
+    actions:
+      - type: Link
+        label: GitHub
+        altText: GitHub
+        url: >-
+          /https://github.com/AyeletZer/Amazon_App_Reviews_Text_Analytics_Project
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
